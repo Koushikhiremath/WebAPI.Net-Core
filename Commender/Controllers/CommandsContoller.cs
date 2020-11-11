@@ -6,6 +6,7 @@ using AutoMapper;
 using Commender.Data;
 using Commender.DTOs;
 using Commender.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
